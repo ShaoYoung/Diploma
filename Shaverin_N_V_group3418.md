@@ -11,7 +11,7 @@
 6. Реализовать сбор отчётов, необходимых руководителю бизнеса;  
 7. Разработать программу для работы информационной системы в Telegram (Telegram-bot). 
 
-### **Инструменты**: Python, PostgreSQL, WebSocket, Linux (Ubuntu), Git, PyCharm, DBeaver, Telegram, Аспро Cloud.
+### **Инструменты**: Python, PostgreSQL, WebSocket, Linux (Ubuntu), Git, PyCharm, DBeaver, Telegram, Аспро.Cloud.
 
 ### **Структура дипломного проекта**:   
 
